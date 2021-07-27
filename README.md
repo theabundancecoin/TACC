@@ -3,7 +3,7 @@ TaccCoin Standard wallet repository
 
 ### Coin Specs
 
-• PIVX fork
+• PIVX fork   
 • PoW Algorithm: Quark   
 • Premine: 1,990,000,000 TACC   
 • PoW Blocks: 1 - 1000   
@@ -12,7 +12,7 @@ TaccCoin Standard wallet repository
 • Maturity: 50 Confirmations   
 • Prefix: TACC adresses start with "T"   
 • Ports: 38101 (p2p) /  38102 (rpc)  
-• Explorer [https://explorer.theabundancecoin.com](https://explorer.theabundancecoin.com/)
+• Explorer [https://explorer.theabundancecoin.com](https://explorer.theabundancecoin.com/)   
 • Website [https://theabundancecoin.com/](https://theabundancecoin.com/)
 
 ### Rewards Breakdown
