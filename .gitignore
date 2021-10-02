@@ -144,7 +144,6 @@ cmake-build-debug
 moc_*
 *.tmp
 ui_*
-pivxd.*
 pivxd-new-gui.*
 
 sync.sh
